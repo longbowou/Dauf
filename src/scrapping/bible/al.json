@@ -1,0 +1,402 @@
+{
+  "old": [
+    {
+      "name": "1 Mose",
+      "path": "GEN",
+      "slug": "Genesis",
+      "chapters": 50
+    },
+    {
+      "name": "2 Mose",
+      "path": "EXO",
+      "slug": "Exodus",
+      "chapters": 40
+    },
+    {
+      "name": "3 Mose",
+      "path": "LEV",
+      "slug": "Leviticus",
+      "chapters": 27
+    },
+    {
+      "name": "4 Mose",
+      "path": "NUM",
+      "slug": "Numbers",
+      "chapters": 36
+    },
+    {
+      "name": "5 Mose",
+      "path": "DEU",
+      "slug": "Deuteronomy",
+      "chapters": 34
+    },
+    {
+      "name": "Yosua",
+      "path": "JOS",
+      "slug": "Joshua",
+      "chapters": 24
+    },
+    {
+      "name": "Ʋɔnudrɔ̃lawo",
+      "path": "JDG",
+      "slug": "Judges",
+      "chapters": 21
+    },
+    {
+      "name": "Rut",
+      "path": "RUT",
+      "slug": "Ruth",
+      "chapters": 4
+    },
+    {
+      "name": "1 Samuel",
+      "path": "1SA",
+      "slug": "1 Samuel",
+      "chapters": 31
+    },
+    {
+      "name": "2 Samuel",
+      "path": "2SA",
+      "slug": "2 Samuel",
+      "chapters": 24
+    },
+    {
+      "name": "1 Fiawo",
+      "path": "1KI",
+      "slug": "1 Kings",
+      "chapters": 22
+    },
+    {
+      "name": "2 Fiawo",
+      "path": "2KI",
+      "slug": "2 Kings",
+      "chapters": 25
+    },
+    {
+      "name": "1 Kronika",
+      "path": "1CH",
+      "slug": "1 Chronicles",
+      "chapters": 29
+    },
+    {
+      "name": "2 Kronika",
+      "path": "2CH",
+      "slug": "2 Chronicles",
+      "chapters": 36
+    },
+    {
+      "name": "Ezra",
+      "path": "EZR",
+      "slug": "Ezra",
+      "chapters": 10
+    },
+    {
+      "name": "Nehemia",
+      "path": "NEH",
+      "slug": "Nehemiah",
+      "chapters": 13
+    },
+    {
+      "name": "Ester",
+      "path": "EST",
+      "slug": "Esther",
+      "chapters": 10
+    },
+    {
+      "name": "Hiob",
+      "path": "JOB",
+      "slug": "Job",
+      "chapters": 42
+    },
+    {
+      "name": "Psalmowo",
+      "path": "PSA",
+      "slug": "Psalms",
+      "chapters": 150
+    },
+    {
+      "name": "Lododowo",
+      "path": "PRO",
+      "slug": "Proverbs",
+      "chapters": 31
+    },
+    {
+      "name": "Nyagblɔla",
+      "path": "ECC",
+      "slug": "Ecclesiastes",
+      "chapters": 12
+    },
+    {
+      "name": "Hawo",
+      "path": "SNG",
+      "slug": "Song of Solomon",
+      "chapters": 8
+    },
+    {
+      "name": "Yesaya",
+      "path": "ISA",
+      "slug": "Isaiah",
+      "chapters": 66
+    },
+    {
+      "name": "Yeremia",
+      "path": "JER",
+      "slug": "Jeremiah",
+      "chapters": 52
+    },
+    {
+      "name": "Konyifahawo",
+      "path": "LAM",
+      "slug": "Lamentations",
+      "chapters": 5
+    },
+    {
+      "name": "Hezekiel",
+      "path": "EZK",
+      "slug": "Ezekiel",
+      "chapters": 48
+    },
+    {
+      "name": "Daniel",
+      "path": "DAN",
+      "slug": "Daniel",
+      "chapters": 12
+    },
+    {
+      "name": "Hosea",
+      "path": "HOS",
+      "slug": "Hosea",
+      "chapters": 14
+    },
+    {
+      "name": "Yoel",
+      "path": "JOL",
+      "slug": "Joel",
+      "chapters": 3
+    },
+    {
+      "name": "Amos",
+      "path": "AMO",
+      "slug": "Amos",
+      "chapters": 9
+    },
+    {
+      "name": "Obadia",
+      "path": "OBA",
+      "slug": "Obadiah",
+      "chapters": 1
+    },
+    {
+      "name": "Yona",
+      "path": "JON",
+      "slug": "Jonah",
+      "chapters": 4
+    },
+    {
+      "name": "Mika",
+      "path": "MIC",
+      "slug": "Micah",
+      "chapters": 7
+    },
+    {
+      "name": "Nahum",
+      "path": "NAM",
+      "slug": "Nahum",
+      "chapters": 3
+    },
+    {
+      "name": "Habakuk",
+      "path": "HAB",
+      "slug": "Habakkuk",
+      "chapters": 3
+    },
+    {
+      "name": "Zefania",
+      "path": "ZEP",
+      "slug": "Zephaniah",
+      "chapters": 3
+    },
+    {
+      "name": "Hagai",
+      "path": "HAG",
+      "slug": "Haggai",
+      "chapters": 2
+    },
+    {
+      "name": "Zekaria",
+      "path": "ZEC",
+      "slug": "Zechariah",
+      "chapters": 14
+    },
+    {
+      "name": "Malaki",
+      "path": "MAL",
+      "slug": "Malachi",
+      "chapters": 4
+    }
+  ],
+  "new": [
+    {
+      "name": "Mateo",
+      "path": "MAT",
+      "slug": "Matthew",
+      "chapters": 28
+    },
+    {
+      "name": "Marko",
+      "path": "MRK",
+      "slug": "Mark",
+      "chapters": 16
+    },
+    {
+      "name": "Luka",
+      "path": "LUK",
+      "slug": "Luke",
+      "chapters": 24
+    },
+    {
+      "name": "Yohanes",
+      "path": "JHN",
+      "slug": "John",
+      "chapters": 21
+    },
+    {
+      "name": "Dɔwɔwɔwo",
+      "path": "ACT",
+      "slug": "Acts",
+      "chapters": 28
+    },
+    {
+      "name": "Romatɔwo",
+      "path": "ROM",
+      "slug": "Romans",
+      "chapters": 16
+    },
+    {
+      "name": "1 Korintotɔwo",
+      "path": "1CO",
+      "slug": "1 Corinthians",
+      "chapters": 16
+    },
+    {
+      "name": "2 Korintotɔwo",
+      "path": "2CO",
+      "slug": "2 Corinthians",
+      "chapters": 13
+    },
+    {
+      "name": "Galatiatɔwo",
+      "path": "GAL",
+      "slug": "Galatians",
+      "chapters": 6
+    },
+    {
+      "name": "Efesotɔwo",
+      "path": "EPH",
+      "slug": "Ephesians",
+      "chapters": 6
+    },
+    {
+      "name": "Filipitɔwo",
+      "path": "PHP",
+      "slug": "Philippians",
+      "chapters": 4
+    },
+    {
+      "name": "Kolosetɔwo",
+      "path": "COL",
+      "slug": "Colossians",
+      "chapters": 4
+    },
+    {
+      "name": "1 Tesalonikatɔwo",
+      "path": "1TH",
+      "slug": "1 Thessalonians",
+      "chapters": 5
+    },
+    {
+      "name": "2 Tesalonikatɔwo",
+      "path": "2TH",
+      "slug": "2 Thessalonians",
+      "chapters": 3
+    },
+    {
+      "name": "1 Timoteo",
+      "path": "1TI",
+      "slug": "1 Timothy",
+      "chapters": 6
+    },
+    {
+      "name": "2 Timoteo",
+      "path": "2TI",
+      "slug": "2 Timothy",
+      "chapters": 4
+    },
+    {
+      "name": "Tito",
+      "path": "TIT",
+      "slug": "Titus",
+      "chapters": 3
+    },
+    {
+      "name": "Filemon",
+      "path": "PHM",
+      "slug": "Philemon",
+      "chapters": 1
+    },
+    {
+      "name": "Hebritɔwo",
+      "path": "HEB",
+      "slug": "Hebrews",
+      "chapters": 13
+    },
+    {
+      "name": "Yakobo",
+      "path": "JAS",
+      "slug": "James",
+      "chapters": 5
+    },
+    {
+      "name": "1 Petro",
+      "path": "1PE",
+      "slug": "1 Peter",
+      "chapters": 5
+    },
+    {
+      "name": "2 Petro",
+      "path": "2PE",
+      "slug": "2 Peter",
+      "chapters": 3
+    },
+    {
+      "name": "1 Yohanes",
+      "path": "1JN",
+      "slug": "1 John",
+      "chapters": 5
+    },
+    {
+      "name": "2 Yohanes",
+      "path": "2JN",
+      "slug": "2 John",
+      "chapters": 1
+    },
+    {
+      "name": "3 Yohanes",
+      "path": "3JN",
+      "slug": "3 John",
+      "chapters": 1
+    },
+    {
+      "name": "Yuda",
+      "path": "JUD",
+      "slug": "Jude",
+      "chapters": 1
+    },
+    {
+      "name": "Nyaɖeɖefia",
+      "path": "REV",
+      "slug": "Revelation",
+      "chapters": 22
+    }
+  ]
+}

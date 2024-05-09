@@ -1,0 +1,402 @@
+{
+  "old": [
+    {
+      "name": "Genèse",
+      "path": "GEN",
+      "slug": "Genesis",
+      "chapters": 50
+    },
+    {
+      "name": "Exode",
+      "path": "EXO",
+      "slug": "Exodus",
+      "chapters": 40
+    },
+    {
+      "name": "Lévitique",
+      "path": "LEV",
+      "slug": "Leviticus",
+      "chapters": 27
+    },
+    {
+      "name": "Nombres",
+      "path": "NUM",
+      "slug": "Numbers",
+      "chapters": 36
+    },
+    {
+      "name": "Deutéronome",
+      "path": "DEU",
+      "slug": "Deuteronomy",
+      "chapters": 34
+    },
+    {
+      "name": "Josué",
+      "path": "JOS",
+      "slug": "Joshua",
+      "chapters": 24
+    },
+    {
+      "name": "Juges",
+      "path": "JDG",
+      "slug": "Judges",
+      "chapters": 21
+    },
+    {
+      "name": "Ruth",
+      "path": "RUT",
+      "slug": "Ruth",
+      "chapters": 4
+    },
+    {
+      "name": "1 Samuel",
+      "path": "1SA",
+      "slug": "1 Samuel",
+      "chapters": 31
+    },
+    {
+      "name": "2 Samuel",
+      "path": "2SA",
+      "slug": "2 Samuel",
+      "chapters": 24
+    },
+    {
+      "name": "1 Rois",
+      "path": "1KI",
+      "slug": "1 Kings",
+      "chapters": 22
+    },
+    {
+      "name": "2 Rois",
+      "path": "2KI",
+      "slug": "2 Kings",
+      "chapters": 25
+    },
+    {
+      "name": "1 Chroniques",
+      "path": "1CH",
+      "slug": "1 Chronicles",
+      "chapters": 29
+    },
+    {
+      "name": "2 Chroniques",
+      "path": "2CH",
+      "slug": "2 Chronicles",
+      "chapters": 36
+    },
+    {
+      "name": "Esdras",
+      "path": "EZR",
+      "slug": "Ezra",
+      "chapters": 10
+    },
+    {
+      "name": "Néhémie",
+      "path": "NEH",
+      "slug": "Nehemiah",
+      "chapters": 13
+    },
+    {
+      "name": "Esther",
+      "path": "EST",
+      "slug": "Esther",
+      "chapters": 10
+    },
+    {
+      "name": "Job",
+      "path": "JOB",
+      "slug": "Job",
+      "chapters": 42
+    },
+    {
+      "name": "Psaumes",
+      "path": "PSA",
+      "slug": "Psalms",
+      "chapters": 150
+    },
+    {
+      "name": "Proverbes",
+      "path": "PRO",
+      "slug": "Proverbs",
+      "chapters": 31
+    },
+    {
+      "name": "Ecclésiaste",
+      "path": "ECC",
+      "slug": "Ecclesiastes",
+      "chapters": 12
+    },
+    {
+      "name": "Cantique des cantiques",
+      "path": "SNG",
+      "slug": "Song of Solomon",
+      "chapters": 8
+    },
+    {
+      "name": "Esaïe",
+      "path": "ISA",
+      "slug": "Isaiah",
+      "chapters": 66
+    },
+    {
+      "name": "Jérémie",
+      "path": "JER",
+      "slug": "Jeremiah",
+      "chapters": 52
+    },
+    {
+      "name": "Lamentations",
+      "path": "LAM",
+      "slug": "Lamentations",
+      "chapters": 5
+    },
+    {
+      "name": "Ezéchiel",
+      "path": "EZK",
+      "slug": "Ezekiel",
+      "chapters": 48
+    },
+    {
+      "name": "Daniel",
+      "path": "DAN",
+      "slug": "Daniel",
+      "chapters": 12
+    },
+    {
+      "name": "Osée",
+      "path": "HOS",
+      "slug": "Hosea",
+      "chapters": 14
+    },
+    {
+      "name": "Joël",
+      "path": "JOL",
+      "slug": "Joel",
+      "chapters": 3
+    },
+    {
+      "name": "Amos",
+      "path": "AMO",
+      "slug": "Amos",
+      "chapters": 9
+    },
+    {
+      "name": "Abdias",
+      "path": "OBA",
+      "slug": "Obadiah",
+      "chapters": 1
+    },
+    {
+      "name": "Jonas",
+      "path": "JON",
+      "slug": "Jonah",
+      "chapters": 4
+    },
+    {
+      "name": "Michée",
+      "path": "MIC",
+      "slug": "Micah",
+      "chapters": 7
+    },
+    {
+      "name": "Nahum",
+      "path": "NAM",
+      "slug": "Nahum",
+      "chapters": 3
+    },
+    {
+      "name": "Habacuc",
+      "path": "HAB",
+      "slug": "Habakkuk",
+      "chapters": 3
+    },
+    {
+      "name": "Sophonie",
+      "path": "ZEP",
+      "slug": "Zephaniah",
+      "chapters": 3
+    },
+    {
+      "name": "Aggée",
+      "path": "HAG",
+      "slug": "Haggai",
+      "chapters": 2
+    },
+    {
+      "name": "Zacharie",
+      "path": "ZEC",
+      "slug": "Zechariah",
+      "chapters": 14
+    },
+    {
+      "name": "Malachie",
+      "path": "MAL",
+      "slug": "Malachi",
+      "chapters": 3
+    }
+  ],
+  "new": [
+    {
+      "name": "Matthieu",
+      "path": "MAT",
+      "slug": "Matthew",
+      "chapters": 28
+    },
+    {
+      "name": "Marc",
+      "path": "MRK",
+      "slug": "Mark",
+      "chapters": 16
+    },
+    {
+      "name": "Luc",
+      "path": "LUK",
+      "slug": "Luke",
+      "chapters": 24
+    },
+    {
+      "name": "Jean",
+      "path": "JHN",
+      "slug": "John",
+      "chapters": 21
+    },
+    {
+      "name": "Actes",
+      "path": "ACT",
+      "slug": "Acts",
+      "chapters": 28
+    },
+    {
+      "name": "Romains",
+      "path": "ROM",
+      "slug": "Romans",
+      "chapters": 16
+    },
+    {
+      "name": "1 Corinthiens",
+      "path": "1CO",
+      "slug": "1 Corinthians",
+      "chapters": 16
+    },
+    {
+      "name": "2 Corinthiens",
+      "path": "2CO",
+      "slug": "2 Corinthians",
+      "chapters": 13
+    },
+    {
+      "name": "Galates",
+      "path": "GAL",
+      "slug": "Galatians",
+      "chapters": 6
+    },
+    {
+      "name": "Ephésiens",
+      "path": "EPH",
+      "slug": "Ephesians",
+      "chapters": 6
+    },
+    {
+      "name": "Philippiens",
+      "path": "PHP",
+      "slug": "Philippians",
+      "chapters": 4
+    },
+    {
+      "name": "Colossiens",
+      "path": "COL",
+      "slug": "Colossians",
+      "chapters": 4
+    },
+    {
+      "name": "1 Thessaloniciens",
+      "path": "1TH",
+      "slug": "1 Thessalonians",
+      "chapters": 5
+    },
+    {
+      "name": "2 Thessaloniciens",
+      "path": "2TH",
+      "slug": "2 Thessalonians",
+      "chapters": 3
+    },
+    {
+      "name": "1 Timothée",
+      "path": "1TI",
+      "slug": "1 Timothy",
+      "chapters": 6
+    },
+    {
+      "name": "2 Timothée",
+      "path": "2TI",
+      "slug": "2 Timothy",
+      "chapters": 4
+    },
+    {
+      "name": "Tite",
+      "path": "TIT",
+      "slug": "Titus",
+      "chapters": 3
+    },
+    {
+      "name": "Philémon",
+      "path": "PHM",
+      "slug": "Philemon",
+      "chapters": 1
+    },
+    {
+      "name": "Hébreux",
+      "path": "HEB",
+      "slug": "Hebrews",
+      "chapters": 13
+    },
+    {
+      "name": "Jacques",
+      "path": "JAS",
+      "slug": "James",
+      "chapters": 5
+    },
+    {
+      "name": "1 Pierre",
+      "path": "1PE",
+      "slug": "1 Peter",
+      "chapters": 5
+    },
+    {
+      "name": "2 Pierre",
+      "path": "2PE",
+      "slug": "2 Peter",
+      "chapters": 3
+    },
+    {
+      "name": "1 Jean",
+      "path": "1JN",
+      "slug": "1 John",
+      "chapters": 5
+    },
+    {
+      "name": "2 Jean",
+      "path": "2JN",
+      "slug": "2 John",
+      "chapters": 1
+    },
+    {
+      "name": "3 Jean",
+      "path": "3JN",
+      "slug": "3 John",
+      "chapters": 1
+    },
+    {
+      "name": "Jude",
+      "path": "JUD",
+      "slug": "Jude",
+      "chapters": 1
+    },
+    {
+      "name": "Apocalypse",
+      "path": "REV",
+      "slug": "Revelation",
+      "chapters": 22
+    }
+  ]
+}
