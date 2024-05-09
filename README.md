@@ -185,3 +185,7 @@ Here is available options
 ### What's next ?
 
 Check the backend part on [Dauf Platform](https://gitlab.com/dauf-l/dauf-platform) repository
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
